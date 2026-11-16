@@ -1,0 +1,5 @@
+### Health check
+GET http://localhost:5000/api/health
+
+### 404 test
+GET http://localhost:5000/api/nothing
